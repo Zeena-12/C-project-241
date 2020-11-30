@@ -1,0 +1,30 @@
+.ora{
+background-color: rgb(204, 242, 247);
+ align-items: center; 
+ justify-content: center;
+ display: ruby;
+ text-align: center;
+ margin-top: 20px;
+
+}
+.header{
+    height: 350px;
+    background-image: url(./c48320ae2a628e3d8aae42ea9bf9832d.jpg);
+}
+button{
+    margin-top: 20px;
+    background-color: black;
+    color: rgb(189, 238, 230);
+    border-radius: 50px;
+    width: 50px;
+    height: 40px;
+}
+select{
+    background-color: black;
+    color: rgb(168, 233, 230);
+    font-size: 15px;
+}
+.thoughts{
+    text-align: center;
+    font-size: 30px;
+}
